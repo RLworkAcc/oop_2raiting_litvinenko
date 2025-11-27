@@ -1,4 +1,0 @@
-﻿  oop_task11_ltv.cpp
-E:\oop_2raiting_ltv\oop_task11_ltv\oop_task11_ltv.cpp(5,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-E:\oop_2raiting_ltv\oop_task11_ltv\oop_task11_ltv.cpp(9,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  oop_task11_ltv.vcxproj -> E:\oop_2raiting_ltv\oop_task11_ltv\x64\Debug\oop_task11_ltv.exe
