@@ -1,0 +1,6 @@
+﻿  oop_task7_ltv.cpp
+E:\oop_2raiting_ltv\oop_task7_ltv\oop_task7_ltv.cpp(74,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oop_2raiting_ltv\oop_task7_ltv\oop_task7_ltv.cpp(87,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oop_2raiting_ltv\oop_task7_ltv\oop_task7_ltv.cpp(110,32): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oop_2raiting_ltv\oop_task7_ltv\oop_task7_ltv.cpp(113,32): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  oop_task7_ltv.vcxproj -> E:\oop_2raiting_ltv\oop_task7_ltv\x64\Debug\oop_task7_ltv.exe

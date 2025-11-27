@@ -1,0 +1,3 @@
+﻿  oop_task8_ltv.cpp
+E:\oop_2raiting_ltv\oop_task8_ltv\oop_task8_ltv.cpp(73,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  oop_task8_ltv.vcxproj -> E:\oop_2raiting_ltv\oop_task8_ltv\x64\Debug\oop_task8_ltv.exe
