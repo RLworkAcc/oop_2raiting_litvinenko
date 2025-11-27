@@ -1,0 +1,13 @@
+﻿  oop_task12_ltv.cpp
+E:\oop_2raiting_ltv\oop_task12_ltv\oop_task12_ltv.cpp(9,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\oop_2raiting_ltv\oop_task12_ltv\oop_task12_ltv.cpp(10,25): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+E:\oop_2raiting_ltv\oop_task12_ltv\oop_task12_ltv.cpp(10,25): warning C4244:         with
+E:\oop_2raiting_ltv\oop_task12_ltv\oop_task12_ltv.cpp(10,25): warning C4244:         [
+E:\oop_2raiting_ltv\oop_task12_ltv\oop_task12_ltv.cpp(10,25): warning C4244:             _Ty=int
+E:\oop_2raiting_ltv\oop_task12_ltv\oop_task12_ltv.cpp(10,25): warning C4244:         ]
+E:\oop_2raiting_ltv\oop_task12_ltv\oop_task12_ltv.cpp(57,24): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+E:\oop_2raiting_ltv\oop_task12_ltv\oop_task12_ltv.cpp(57,24): warning C4244:         with
+E:\oop_2raiting_ltv\oop_task12_ltv\oop_task12_ltv.cpp(57,24): warning C4244:         [
+E:\oop_2raiting_ltv\oop_task12_ltv\oop_task12_ltv.cpp(57,24): warning C4244:             _Ty=int
+E:\oop_2raiting_ltv\oop_task12_ltv\oop_task12_ltv.cpp(57,24): warning C4244:         ]
+  oop_task12_ltv.vcxproj -> E:\oop_2raiting_ltv\oop_task12_ltv\x64\Debug\oop_task12_ltv.exe

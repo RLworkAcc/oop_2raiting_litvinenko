@@ -1,0 +1,3 @@
+﻿  oop_task13_ltv.cpp
+E:\oop_2raiting_ltv\oop_task13_ltv\oop_task13_ltv.cpp(22,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  oop_task13_ltv.vcxproj -> E:\oop_2raiting_ltv\oop_task13_ltv\x64\Debug\oop_task13_ltv.exe
